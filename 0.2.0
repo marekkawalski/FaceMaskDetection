@@ -1,0 +1,11 @@
+Collecting keras-resnet
+  Downloading keras-resnet-0.2.0.tar.gz (9.3 kB)
+Requirement already satisfied: keras>=2.2.4 in c:\aplikacje\anaconda\anaconda\envs\tf\lib\site-packages (from keras-resnet) (2.8.0)
+Building wheels for collected packages: keras-resnet
+  Building wheel for keras-resnet (setup.py): started
+  Building wheel for keras-resnet (setup.py): finished with status 'done'
+  Created wheel for keras-resnet: filename=keras_resnet-0.2.0-py2.py3-none-any.whl size=20486 sha256=757611adffedfff4f2eb883ea883003861324d4c0cdfbc55bcb55fb5d4b47c09
+  Stored in directory: c:\users\paulina\appdata\local\pip\cache\wheels\53\ed\ef\144804f160c278c80d6429c97ed126b61276721894ce64cccc
+Successfully built keras-resnet
+Installing collected packages: keras-resnet
+Successfully installed keras-resnet-0.2.0
